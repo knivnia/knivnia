@@ -1,5 +1,12 @@
 ### Hi 👋
 
-My name is Kseniia and I'm newbie developer. I live in Dublin. I’m currently ending my python education and open for a full-time job
 
-How to reach me: 📫 kseniia.nivnia@gmail.com  👩‍💻 https://www.linkedin.com/in/kseniianivnia/
+My name is Kseniia, I live in Dublin and I'm a newbie developer.
+I'm finishing my "Python Developer" program currently and ready for a full-time job.
+
+
+How to reach me:
+
+📫 kseniia.nivnia@gmail.com
+
+👩‍💻 https://www.linkedin.com/in/kseniianivnia/
