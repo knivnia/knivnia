@@ -12,6 +12,8 @@ How to reach me:
 👩‍💻 https://www.linkedin.com/in/kseniianivnia/
 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 ![Kseniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=knivnia&theme=buefy&show_icons=true&count_private=true&hide_border=true)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/knivnia?style=social) 
