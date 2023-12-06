@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
-My name is Kseniia, I'm a newbie developer and I live in Ireland.
+My name is Kseniia, I'm a Software Developer and I live in Ireland.
 
 
 How to reach me:
